@@ -1,0 +1,4 @@
+dmn provides CMake targets:
+
+  find_package(dmn CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE dmn::dmn)
