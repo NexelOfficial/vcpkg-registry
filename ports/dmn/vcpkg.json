@@ -1,6 +1,6 @@
 {
   "name": "dmn",
-  "version-semver": "1.0.4",
+  "version-semver": "1.0.5",
   "description": "C++ wrapper library for the HCL Domino C API",
   "homepage": "https://github.com/NexelOfficial/dmn-cpp",
   "license": "LicenseRef-PolyForm-Noncommercial-1.0.0",
